@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexdenisovit/Documents/cpp_proj/LoopedArray/LoopedArray.h
+
+/Users/alexdenisovit/Documents/cpp_proj/LoopedArray/LoopedArrayTemplate.h
+LoopedArray.h
+/Users/alexdenisovit/Documents/cpp_proj/LoopedArray/LoopedArray.h
+
+/Users/alexdenisovit/Documents/cpp_proj/LoopedArray/main.cpp
+iostream
+-
+LoopedArray.h
+/Users/alexdenisovit/Documents/cpp_proj/LoopedArray/LoopedArray.h
+LoopedArrayTemplate.h
+/Users/alexdenisovit/Documents/cpp_proj/LoopedArray/LoopedArrayTemplate.h
+

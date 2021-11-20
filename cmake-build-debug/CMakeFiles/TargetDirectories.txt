@@ -1,0 +1,3 @@
+/Users/alexdenisovit/Documents/cpp_proj/LoopedArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alexdenisovit/Documents/cpp_proj/LoopedArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexdenisovit/Documents/cpp_proj/LoopedArray/cmake-build-debug/CMakeFiles/DynamicArrayLib.dir
